@@ -4,7 +4,7 @@ This Project is a simple **Weatherline React Demo App** which can get weather in
 
 In this project, You can find **React Class Component**, **Functional Component**, **TypeScript**, **Infinite Scroll**, **Content Loader** and **Google Material UI**.
 
-![](https://github.com/kivanckadir/weatherline-react-demo-app/blob/master/capture.gif)
+![](https://github.com/kivanckadir/weatherline-react-demo-app/blob/main/capture.gif)
 
 ## Installation
 `npm install` or `yarn install`
